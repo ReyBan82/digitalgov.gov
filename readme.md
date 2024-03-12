@@ -41,6 +41,7 @@ The repositories below are all used to maintain [digital.gov:](https://digital.g
 </details>
 
 ---
+![2106778703-me](https://github.com/ReyBan82/digitalgov.gov/assets/91646027/774fff4a-d2c6-4ae1-8cec-6ef5b0bb46d7)
 
 ## Development Guide
 
